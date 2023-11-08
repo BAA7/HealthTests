@@ -1,0 +1,2 @@
+0 Are_you_beautiful? yes;no 1;0
+0 Are_you_smart? yes;no 1;0
